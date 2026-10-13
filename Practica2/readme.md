@@ -1,6 +1,6 @@
 ## Práctica 2: Aplicación de ciencia de datos en procesos comerciales
 
-**Ciencia de Datos en el Sector Privado (CDT015)**
+**Ciencia de Datos en el Sector Privado**
 
 **Caso.** Una empresa de comercio electrónico quiere aumentar sus ingresos entendiendo mejor el comportamiento de sus clientes. Cuenta con edad, frecuencia de compra, monto promedio, canal de adquisición (web, app, redes sociales) y el historial de compras de los últimos 12 meses de 500 clientes. La dirección pide identificar segmentos, detectar oportunidades de personalización y proponer estrategias comerciales diferenciadas.
 
