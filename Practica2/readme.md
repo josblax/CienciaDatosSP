@@ -1,4 +1,4 @@
-## Autopráctica 2: Aplicación de ciencia de datos en procesos comerciales
+## Práctica 2: Aplicación de ciencia de datos en procesos comerciales
 
 **Ciencia de Datos en el Sector Privado (CDT015)**
 
