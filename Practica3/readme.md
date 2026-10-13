@@ -1,18 +1,18 @@
 # Práctica 3 
 ## Aplicación de la Ciencia de Datos en el Sector Privado de la Salud
 
-# ==========================================================
-# Práctica 3 — Aplicación de la Ciencia de Datos en el
-# Sector Privado de la Salud
-# Script de preparación de datos
+#### ==========================================================
+### Práctica 3 — Aplicación de la Ciencia de Datos en el
+### Sector Privado de la Salud
+### Script de preparación de datos
 
-# Datos base (reales): Pima Indians Diabetes Database, versión original
-#   OpenML ID 37 — https://www.openml.org/d/37
-#   Colocar "diabetes.csv" (proporcionado por el docente) en la misma
-#   carpeta que este script.
-# Datos complementarios (sintéticos): notas clínicas, adherencia
-#   y consumo de insumos, generados sobre los mismos pacientes.
-# ==========================================================
+#### Datos base (reales): Pima Indians Diabetes Database, versión original
+####   OpenML ID 37 — https://www.openml.org/d/37
+####   Colocar "diabetes.csv" (proporcionado por el docente) en la misma
+####   carpeta que este script.
+#### Datos complementarios (sintéticos): notas clínicas, adherencia
+####   y consumo de insumos, generados sobre los mismos pacientes.
+#### ==========================================================
 
 **Caso:** una clínica privada quiere un sistema de apoyo a la decisión médica que identifique pacientes con alto riesgo de diabetes tipo 2 y use ese resultado para la telemedicina, un programa de adherencia y el abastecimiento de insumos.
 
