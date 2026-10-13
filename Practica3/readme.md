@@ -1,5 +1,5 @@
 # Práctica 3 
-## Aplicación de la Ciencia de Datos en el Sector Privado de la Salud (CDT015)
+## Aplicación de la Ciencia de Datos en el Sector Privado de la Salud
 
 **Caso:** una clínica privada quiere un sistema de apoyo a la decisión médica que identifique pacientes con alto riesgo de diabetes tipo 2 y use ese resultado para la telemedicina, un programa de adherencia y el abastecimiento de insumos.
 
